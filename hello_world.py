@@ -1,11 +1,5 @@
-print("Hello from release")
-
+print("Hello world!")
 
 print("Hello from feature")
 
-<<<<<<< HEAD
-print("Hello World!")
-
-=======
-print("Hello world!")
->>>>>>> upstream/master
+print("Hello from release")
