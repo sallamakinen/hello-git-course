@@ -2,9 +2,7 @@
 
 print("Hello from feature")
 
-<<<<<<< HEAD
+print("Hello from release")
+
 print("Hello World!")
 
-=======
-print("Hello world!")
->>>>>>> upstream/master
